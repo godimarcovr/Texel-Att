@@ -22,11 +22,11 @@ Boxes and masks annotations are provided in COCO format as json files.
 
 If you use Texel-Att or *Elba* dataset in your research or wish to refer to the results published in the paper, please use the following BibTeX entry.
 
-'''
+```
 @article{godi2019texelatt,
   title={Texel-Att: Representing and Classifying Element-based Textures by Attributes},
   author={Godi, Marco and Joppi, Christian and Giachetti, Andrea and Pellacini, Fabio and Cristani, Marco},
   year={2019}
 }
-'''
+```
 
