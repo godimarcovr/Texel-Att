@@ -6,11 +6,15 @@ Accepted and will be shown at BMVC 2019.
 
 ## Texel-Att framework code
 
-It will be avaiable soon!
+![Texel-Att Texel-Att](/images/schema.png)
+
+Code will be avaiable soon!
 
 ## *ElBa* dataset
 
-*ElBa* dataset is avaiable to [download](www.google.it).
+![ElBa ElBa](/images/elba.png)
+
+*ElBa* dataset is avaiable to [download](https://drive.google.com/open?id=18D0_0RIE7ZZ5V7JQAPshLfSESVqD6hfL).
 
 Zip file contains the training and testing set images folders.
 
@@ -20,7 +24,7 @@ Boxes and masks annotations are provided in COCO format as json files.
 
 ## Citation
 
-If you use Texel-Att or *Elba* dataset in your research or wish to refer to the results published in the paper, please use the following BibTeX entry.
+If you use Texel-Att or *Elba* dataset in your research or wish to refer to the results published in the [paper](paper.pdf), please use the following BibTeX entry.
 
 ```
 @article{godi2019texelatt,
