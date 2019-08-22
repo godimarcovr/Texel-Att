@@ -7,7 +7,7 @@ Accepted and will be shown at BMVC 2019.
 ## Texel-Att framework code
 
 
-Code will be avaiable soon!
+Code will be available soon!
 
 
 ![Texel-Att Texel-Att](/images/schema.png)
@@ -16,7 +16,7 @@ Code will be avaiable soon!
 
 
 
-*ElBa* dataset is avaiable to [download](https://drive.google.com/open?id=18D0_0RIE7ZZ5V7JQAPshLfSESVqD6hfL).
+*ElBa* dataset is available to [download](https://drive.google.com/open?id=18D0_0RIE7ZZ5V7JQAPshLfSESVqD6hfL).
 
 Zip file contains the training and testing set images folders.
 
