@@ -10,7 +10,7 @@ Accepted and will be shown at BMVC 2019.
 Code will be avaiable soon!
 
 
-![Texel-Att Texel-Att](/images/schema.png | width=75)
+![Texel-Att Texel-Att](/images/schema.png)
 
 ## *ElBa* dataset
 
@@ -22,7 +22,7 @@ Zip file contains the training and testing set images folders.
 
 Boxes and masks annotations are provided in COCO format as json files. 
 
-![ElBa ElBa](/images/elba.png | width=75)
+![ElBa ElBa](/images/elba.png)
 
 ## Citation
 
