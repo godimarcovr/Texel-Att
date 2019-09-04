@@ -26,7 +26,7 @@ Boxes and masks annotations are provided in COCO format as json files.
 
 ## Citation
 
-If you use Texel-Att or *Elba* dataset in your research or wish to refer to the results published in the [paper](https://drive.google.com/open?id=1Fym6qerWd2Nh2l3Ih3I40YDH6n_usViD), please use the following BibTeX entry.
+If you use Texel-Att or *Elba* dataset in your research or wish to refer to the results published in the [paper](https://arxiv.org/abs/1908.11127), please use the following BibTeX entry.
 
 ```
 @article{godi2019texelatt,
