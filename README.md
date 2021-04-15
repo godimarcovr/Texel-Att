@@ -2,7 +2,7 @@
 
 This repository contains instruction to download *ElBa* dataset and it will soon contains code of Texel-Att framework.
 
-Accepted and will be shown at BMVC 2019.
+Accepted and presented at BMVC 2019! [paper link](https://arxiv.org/abs/1908.11127).
 
 ## Texel-Att framework code
 
