@@ -14,7 +14,7 @@ Code will be available soon!
 
 ## Code
 
-For the bounding boxes and masks extraction, please train one of the architectures available for ![MaskRCNN](https://pytorch.org/tutorials/intermediate/torchvision_tutorial.html)(we use the one with Resnet50 backbone) on ElBa dataset (the annotations are already in COCO format).
+For the bounding boxes and masks extraction, please train one of the architectures available for [MaskRCNN](https://pytorch.org/tutorials/intermediate/torchvision_tutorial.html)(we use the one with Resnet50 backbone) on ElBa dataset (the annotations are already in COCO format).
 
 Once the detections are extracted, run the matlab code in the following order:
 - computeAttributes.m
