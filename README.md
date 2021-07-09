@@ -12,8 +12,17 @@ Code will be available soon!
 
 ![Texel-Att Texel-Att](/images/schema.png)
 
-## *ElBa* dataset
+## Code
 
+For the bounding boxes and masks extraction, please train one of the architectures available for ![MaskRCNN](https://pytorch.org/tutorials/intermediate/torchvision_tutorial.html)(we use the one with Resnet50 backbone) on ElBa dataset (the annotations are already in COCO format).
+
+Once the detections are extracted, run the matlab code in the following order:
+- computeAttributes.m
+- computeAggregatePerClassAttribute.m
+
+For the relative attributes' experiment, please use the official code published by the authors: https://www.cc.gatech.edu/~parikh/relative.html. 
+
+## *ElBa* dataset
 
 
 *ElBa* dataset is available to [download](https://drive.google.com/file/d/1YGmDjfz2S4dOLmz0nrjZOJbJuI4h58Rv).
